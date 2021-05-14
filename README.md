@@ -2,8 +2,6 @@
 
 // LED will blink when in config mode
 #define BLYNK_PRINT Serial
- 
- 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
